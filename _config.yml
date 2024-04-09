@@ -98,8 +98,24 @@ content:
     content:
       - layout: top-right
         title: University of Florida
-        sub_title: PhD Environmental Engineering
+        sub_title: PhD in Environmental Engineering
         caption: 2021 - 2025
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+      - layout: top-right
+        title: University of Michigan, Ann Arbor
+        sub_title: MS in Environmental Engineering
+        caption: 2019 - 2021
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+      - layout: top-right
+        title: University of Michigan, Ann Arbor
+        sub_title: MS in Environmental Engineering
+        caption: 2019 - 2021
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
