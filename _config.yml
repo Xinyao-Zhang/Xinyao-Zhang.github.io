@@ -49,16 +49,22 @@ googlescholar_username: TdLKY9UAAAAJ&hl
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content:
-  Hey! I am a Ph.D. candidate at the University of Florida, mentored by Dr. Sara Behdad. My research leverages deep learning to enhance safety and efficiency in manufacturing environments, with a focus on <mark>human-robot collaboration</mark>.
+  Hey! I am a Ph.D. candidate at the University of Florida, mentored by Dr. Sara Behdad. My research leverages machine learning to enhance safety and efficiency in manufacturing environments, with a focus on <mark>human-robot collaboration</mark>.
   
 
-  Alongside my doctoral research,  I've pursued a specialization in signals and systems as part of the ECE master's program at UF. I've developed expertise in constructing machine learning models using TensorFlow and PyTorch in Python.
+  Alongside my doctoral research, I've pursued a specialization in signals and systems as part of the ECE master's program at UF. I've developed expertise in constructing machine learning models using TensorFlow and PyTorch in Python.
   
 
   I am passionate about translating theoretical knowledge into practical solutions that drive innovation and enhance productivity in the manufacturing sector!
+  
+  Please find my complete Curriculum Vitae (CV) here: <mark>[Download]()</mark>
+
+  Research Interests:
+    icon: fab fa-cog fa-spin fa-3x fa-fw
+    
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -75,7 +81,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Human Intent Prediction Using Transformer
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
