@@ -77,14 +77,14 @@ content:
   - title: Projects 
     layout: list 
     content:
-      - layout: left
+      - layout: top-middle
         border: weak 
         title: Early prediction of human intent
 # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 # link_text: Link Text
         additional_links:
           - title:  scholar
-            icon: fab fa-github
+            icon: fab fa-google-scholar
             url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
 # - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #   icon: fab fa-github
@@ -92,6 +92,10 @@ content:
 # quote: >
 #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
+          - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
+          that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM.
+          - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
+          that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM.
           - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
           that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM.
   # - title: Projects
