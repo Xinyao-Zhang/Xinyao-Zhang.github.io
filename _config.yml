@@ -65,8 +65,6 @@ about_content: |
     - <mark>Early prediction</mark>
     - <mark>Self-supervised learning</mark>
 
-  
-  
 # <em>Please find my complete Curriculum Vitae (CV) here: <a href="https://github.com/AminSahebi/resume/tree/main/data/resume_Amin_Sahebi.pdf" download="SAHEBI_CV.pdf"><mark>Download</mark></a></em>
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -76,71 +74,68 @@ about_content: |
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Human Intent Prediction Using Transformer
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       border: weak 
+  #       title: Early prediction of human intent
+  #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       link_text: Link Text
+  #       additional_links:
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       quote: >
+  #         Short overview of the project (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description about the work on/with the project
+  - title: Projects
     layout: list
     content:
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-left
-        title: University of Florida
-        sub_title: PhD in Environmental Engineering
-        caption: 2021 - 2025
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-      - layout: top-left
-        title: University of Michigan, Ann Arbor
-        sub_title: MS in Environmental Engineering
-        caption: 2019 - 2021
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-      - layout: top-left
-        title: University of Michigan, Ann Arbor
-        sub_title: MS in Environmental Engineering
-        caption: 2019 - 2021
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+        title: Early prediction of human intent
+        caption: completed in 2023
+        link: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
+        description: | 
+          - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
+          that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM .
+  # - title: Education
+  #   layout: list
+  #   content:
+  #     - layout: top-left
+  #       title: University of Florida
+  #       sub_title: PhD in Environmental Engineering
+  #       caption: 2021 - 2025
+  #       quote: >
+  #         Short institution or course description (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description of qualification
+  #     - layout: top-left
+  #       title: University of Michigan, Ann Arbor
+  #       sub_title: MS in Environmental Engineering
+  #       caption: 2019 - 2021
+  #       quote: >
+  #         Short institution or course description (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description of qualification
+  #     - layout: top-left
+  #       title: University of Michigan, Ann Arbor
+  #       sub_title: MS in Environmental Engineering
+  #       caption: 2019 - 2021
+  #       quote: >
+  #         Short institution or course description (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description of qualification
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
