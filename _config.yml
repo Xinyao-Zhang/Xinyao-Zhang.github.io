@@ -52,9 +52,11 @@ googlescholar_username: TdLKY9UAAAAJ&hl
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content:
-  Hey! I am a Ph.D. candidate at the University of Florida, mentored by Dr. Sara Behdad. My research leverages deep learning to enhance safety and efficiency in manufacturing environments, with a focus on <mark>human-robot collaboration</mark>.&ensp;
+  Hey! I am a Ph.D. candidate at the University of Florida, mentored by Dr. Sara Behdad. My research leverages deep learning to enhance safety and efficiency in manufacturing environments, with a focus on <mark>human-robot collaboration</mark>.
+  
 
-  Alongside my doctoral research,  I've pursued a specialization in signals and systems as part of the ECE master's program at UF. I've developed expertise in constructing machine learning models using TensorFlow and PyTorch in Python.&ensp;
+  Alongside my doctoral research,  I've pursued a specialization in signals and systems as part of the ECE master's program at UF. I've developed expertise in constructing machine learning models using TensorFlow and PyTorch in Python.
+  
 
   I am passionate about translating theoretical knowledge into practical solutions that drive innovation and enhance productivity in the manufacturing sector!
 
