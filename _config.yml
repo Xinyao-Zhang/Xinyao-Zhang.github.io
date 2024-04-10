@@ -74,36 +74,37 @@ about_content: |
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       border: weak 
-  #       title: Early prediction of human intent
-  #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #       link_text: Link Text
-  #       additional_links:
-  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #           icon: fab fa-github
-  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #           icon: fab fa-github
-  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #       quote: >
-  #         Short overview of the project (optional)
-  #       description: | # this will include new lines to allow paragraphs
-  #         Description about the work on/with the project
-  - title: Projects
-    layout: list
+  - title: Projects 
+    layout: list 
     content:
       - layout: left
+        border: weak 
         title: Early prediction of human intent
-        caption: completed in 2023
-        icon: fab fa-github
-        url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
-        description: | 
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text
+        additional_links:
+          - title:  scholar
+            icon: fab fa-google
+            url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
           - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
-          that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM .
+          that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM.
+  # - title: Projects
+  #   layout: list
+  #   content:
+  #     - layout: left
+  #       title: Early prediction of human intent
+  #       caption: completed in 2023
+  #       icon: fab fa-github
+  #       url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
+  #       description: | 
+  #         - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
+  #         that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM .
   # - title: Education
   #   layout: list
   #   content:
