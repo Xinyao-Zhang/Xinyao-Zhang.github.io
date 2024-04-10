@@ -84,7 +84,7 @@ content:
 # link_text: Link Text
         additional_links:
           - title:  scholar
-            icon: fab fa-google-scholar
+            icon: fa-brand fa-google-scholar
             url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
 # - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #   icon: fab fa-github
