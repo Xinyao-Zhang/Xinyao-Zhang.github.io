@@ -80,17 +80,10 @@ content:
       - layout: top-middle
         border: weak 
         title: Early prediction of human intent
-# link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-# link_text: Link Text
         additional_links:
           - title: scholar
             icon: fab fa-github
             url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
-# - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#   icon: fab fa-github
-#   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-# quote: >
-#   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
           that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM.
@@ -100,11 +93,14 @@ content:
           that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM.
           
   - title: Awards
-    layout: list 
-    content:
-      - layout: top-left
-        description: | # this will include new lines to allow paragraphs
-          - Florida AWMA Scholarship, Florida Section of the Air and Waste Management Association, 2023
+    layout: text
+    content: |
+      - Florida AWMA Scholarship, Florida Section of the Air and Waste Management Association, 2023
+      
+  - title: A Little More About Me
+    layout: text
+    content: | 
+       - Florida AWMA Scholarship, Florida Section of the Air and Waste Management Association, 2023
   # - title: Projects
   #   layout: list
   #   content:
@@ -143,10 +139,7 @@ content:
   #         Short institution or course description (optional)
   #       description: | # this will include new lines to allow paragraphs
   #         Description of qualification
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
 
   #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
