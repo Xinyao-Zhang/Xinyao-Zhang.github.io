@@ -83,8 +83,8 @@ content:
 # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 # link_text: Link Text
         additional_links:
-          - title:  scholar
-            icon: <i class="fa-brands fa-google-scholar"></i>
+          - title: scholar
+            icon: fa-brands fa-google-scholar
             url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
 # - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #   icon: fab fa-github
