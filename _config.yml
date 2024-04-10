@@ -51,7 +51,7 @@ googlescholar_username: TdLKY9UAAAAJ&hl
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content:  # this will include new lines to allow paragraphs
   Hey! I am a Ph.D. candidate at the University of Florida, mentored by Dr. Sara Behdad. My research leverages deep learning to enhance safety and efficiency in manufacturing environments, with a focus on <mark>human-robot collaboration</mark>.
   
   My key contributions include developing an unsupervised learning framework for video-based human activity recognition [paper link](https://ieeexplore.ieee.org/abstract/document/10092388) 
