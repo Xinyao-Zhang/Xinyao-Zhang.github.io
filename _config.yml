@@ -20,18 +20,19 @@ darkmode: true
 
 # Social links
 # twitter_username: XinyaoZhang14
+googlescholar_username: TdLKY9UAAAAJ&hl
+linkedin_username: xinyaocynthiazhang
 github_username:  Xinyao-Zhang
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: xinyaocynthiazhang
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # orcid_username: 0000-0003-4655-7050
-googlescholar_username: TdLKY9UAAAAJ&hl
+
 
 # Additional icon links
 # additional_links:
@@ -58,9 +59,9 @@ about_content: |
   Alongside my doctoral research, I've pursued a specialization in signals and systems as part of the ECE master's program at UF. I've developed expertise in constructing machine learning models using TensorFlow and PyTorch in Python.
   
   I am passionate about translating theoretical knowledge into practical solutions that drive innovation and enhance productivity in the manufacturing sector!
-  <br>
+
   Research Interests:
-    - icon: fa-brands fa-google
+    - icon: fab fa-twitter
 
   
   
