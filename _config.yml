@@ -28,6 +28,8 @@ github_username:  Xinyao-Zhang
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | 
+  <p style="color:#ff69b4;">machine learning</p>
+  
   Hey! I am a Ph.D. candidate at the University of Florida, mentored by Dr. Sara Behdad. 
   My research leverages <b>machine learning</b> to enhance safety and efficiency in manufacturing environments, with a focus on <b>human-robot collaboration</b>.
 
@@ -36,6 +38,7 @@ about_content: |
   I am passionate about translating theoretical knowledge into practical solutions that drive innovation and enhance productivity in the manufacturing sector!
 
   Research interests: 
+    - <p style="color:#ff69b4;">machine learning</p>
     - <mark>Human intent and activity recognition</mark>
     - <mark>Early prediction</mark>
     - <mark>Self-supervised learning</mark>
@@ -75,7 +78,7 @@ content:
             icon: fab fa-google fa-spin
             url: https://ieeexplore.ieee.org/abstract/document/10092388
         description: | 
-          - Developed an unsupervised learning framework that combines a sequential variational auto-encoder (Seq-VAE) for latent representation learning, 
+          - Developed an unsupervised learning framework in TensorFlow that combines a sequential variational auto-encoder (Seq-VAE) for latent representation learning, 
           a HMM for continuous action segmentation, and a nonlinear support vector machine kernel for recognition validation.
           - Tested the framework on video-based disassembly tasks, achieving an average recognition accuracy of 91.52%, 
           surpassing both autoencoder and principal component analysis benchmarks. 
@@ -84,7 +87,23 @@ content:
           - Analyzed the HMM's discrete state segmentation efficacy using a hierarchical HMM tree, 
           detailing the probability of each hidden state across different activity classes.
           - Confirmed the framework's robustness with unseen video data, effectively distinguishing between unexpected and predefined actions.
-       
+       - layout: top-middle
+        border: weak 
+        title: Screw Detection and Tool Recommendation
+        quote: >
+          Published in the Journal of Manufacturing Science and Engineering
+        additional_links:
+          - title: scholar
+            icon: fab fa-google fa-spin
+            url: https://asmedigitalcollection.asme.org/manufacturingscience/article/145/3/031008/1148469/Automatic-Screw-Detection-and-Tool-Recommendation
+        description: | 
+          - <p style="color:#ff69b4;">machine learning</p>  
+          - Optimized the YOLOv4 algorithm by adjusting layer sizes and connections within the path aggregation network, 
+          improving screw detection accuracy in used electronics from 92% to 94%.
+          - Developed an EfficientNetv2 algorithm to classify three types of screws, facilitating tool recommendation for disassembly. 
+          This was achieved by expanding the class range and augmenting the dataset, which increased classification accuracy from 98% to 99%.
+          - Expanded the dataset using data augmentation techniques such as hue, exposure, saturation, and mosaic adjustments.
+   
           
   - title: Awards
     layout: text
