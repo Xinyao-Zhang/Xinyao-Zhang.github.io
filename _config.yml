@@ -28,7 +28,7 @@ github_username:  Xinyao-Zhang
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | 
-  <p style="color:#ff69b4;">machine learning</p>
+  # <p style="color:#ff69b4;">machine learning</p>
   
   Hey! I am a Ph.D. candidate at the University of Florida, mentored by Dr. Sara Behdad. 
   My research leverages <b>machine learning</b> to enhance safety and efficiency in manufacturing environments, with a focus on <b>human-robot collaboration</b>.
@@ -38,7 +38,7 @@ about_content: |
   I am passionate about translating theoretical knowledge into practical solutions that drive innovation and enhance productivity in the manufacturing sector!
 
   Research interests: 
-    - <p style="color:#ff69b4;">machine learning</p>
+    # - <p style="color:#ff69b4;">machine learning</p>
     - <mark>Human intent and activity recognition</mark>
     - <mark>Early prediction</mark>
     - <mark>Self-supervised learning</mark>
