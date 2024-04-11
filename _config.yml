@@ -29,7 +29,7 @@ github_username:  Xinyao-Zhang
 about_profile_image: images/profile.jpg
 about_content: | 
   Hey! I am a Ph.D. candidate at the University of Florida, mentored by Dr. Sara Behdad. 
-  My research leverages <b>machine learning</b> to enhance safety and efficiency in manufacturing environments, with a focus on <b>human-robot collaboration</b>.
+  My research leverages <p style="color:#ff69b4;">machine learning</p> to enhance safety and efficiency in manufacturing environments, with a focus on <b>human-robot collaboration</b>.
 
   Alongside my doctoral research, I've pursued a specialization in signals and systems as part of the ECE master's program at UF. I've developed expertise in constructing machine learning models using TensorFlow and PyTorch in Python.
   
@@ -44,7 +44,7 @@ about_content: |
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: <p style="color:#ff69b4;">Projects</p> 
+  - title: Projects 
     layout: list 
     content:
       - layout: top-middle
@@ -52,7 +52,7 @@ content:
         title: Early prediction of human intent
         additional_links:
           - title: scholar
-            icon: fab fa-google
+            icon: fab fa-google fa-spin
             url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
         description: | 
           - Collected arm motion data in a human-robot collaboration experiment, 
