@@ -35,7 +35,7 @@ about_content: |
   
   I am passionate about translating theoretical knowledge into practical solutions that drive innovation and enhance productivity in the manufacturing sector!
 
-  Research interests: <p style="color:#ff69b4;">Research interests</p>
+  Research interests: 
     - <mark>Human intent and activity recognition</mark>
     - <mark>Early prediction</mark>
     - <mark>Self-supervised learning</mark>
@@ -44,7 +44,7 @@ about_content: |
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects 
+  - title: Projects <p style="color:#ff69b4;">Research interests</p>
     layout: list 
     content:
       - layout: top-middle
@@ -55,7 +55,7 @@ content:
             icon: fab fa-google fa-spin
             url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
         description: | 
-          - Collected arm motion data in a human-robot collaboration experiment, <p style="color:#ff69b4;">Research interests</p>
+          - Collected arm motion data in a human-robot collaboration experiment,
           and built Transformer and Bi-LSTM models in TensorFlow to classify human intents.
           - Evaluated model performance by incrementally inputting data lengths from 20% 
           to 100% in 20% intervals, visualizing the results with boxplots and heatmaps.
