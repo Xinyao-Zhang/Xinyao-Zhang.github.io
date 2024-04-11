@@ -9,11 +9,7 @@ version: 2
 name: Xinyao (Cynthia) Zhang
 title: Open to work
 email: xinyaozhang@ufl.edu
-# email_title: Email (Email title override)
-# phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
 # website: https://xinyao-zhang.github.io/
-# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -26,28 +22,7 @@ github_username:  Xinyao-Zhang
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
 # orcid_username: 0000-0003-4655-7050
-
-
-# Additional icon links
-# additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -66,15 +41,10 @@ about_content: |
     - <mark>Self-supervised learning</mark>
 
 # <em>Please find my complete Curriculum Vitae (CV) here: <a href="https://github.com/AminSahebi/resume/tree/main/data/resume_Amin_Sahebi.pdf" download="SAHEBI_CV.pdf"><mark>Download</mark></a></em>
-# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-#   - Lists
-#   - Tables
-#   - <a href="google.com">Links</a>
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects 
+  - title: <p style="color:#ff69b4;">Projects</p> 
     layout: list 
     content:
       - layout: top-middle
@@ -82,15 +52,18 @@ content:
         title: Early prediction of human intent
         additional_links:
           - title: scholar
-            icon: fab fa-github
+            icon: fab fa-google
             url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
-        description: | # this will include new lines to allow paragraphs
-          - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
-          that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM.
-          - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
-          that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM.
-          - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
-          that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM.
+        description: | 
+          - Collected arm motion data in a human-robot collaboration experiment, 
+          and built Transformer and Bi-LSTM models in TensorFlow to classify human intents.
+          - Evaluated model performance by incrementally inputting data lengths from 20% 
+          to 100% in 20% intervals, visualizing the results with boxplots and heatmaps.
+          - Converted motion data into Euclidean distance features for a Hidden Markov Model (HMM) and
+          an Autoregressive HMM to identify intent state transitions from uncertain to certain.
+          - Achieved the early prediction goal by predicting intent before state transitions, 
+          resulting in a 2% improvement for the Transformer model and a 6% increase for the Bi-LSTM model.
+       
           
   - title: Awards
     layout: text
