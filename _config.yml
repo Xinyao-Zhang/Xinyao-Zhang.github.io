@@ -29,13 +29,13 @@ github_username:  Xinyao-Zhang
 about_profile_image: images/profile.jpg
 about_content: | 
   Hey! I am a Ph.D. candidate at the University of Florida, mentored by Dr. Sara Behdad. 
-  My research leverages <p style="color:#ff69b4;">machine learning</p> to enhance safety and efficiency in manufacturing environments, with a focus on <b>human-robot collaboration</b>.
+  My research leverages <b>machine learning</b> to enhance safety and efficiency in manufacturing environments, with a focus on <b>human-robot collaboration</b>.
 
   Alongside my doctoral research, I've pursued a specialization in signals and systems as part of the ECE master's program at UF. I've developed expertise in constructing machine learning models using TensorFlow and PyTorch in Python.
   
   I am passionate about translating theoretical knowledge into practical solutions that drive innovation and enhance productivity in the manufacturing sector!
 
-  Research interests:
+  Research interests: <p style="color:#ff69b4;">Research interests</p>
     - <mark>Human intent and activity recognition</mark>
     - <mark>Early prediction</mark>
     - <mark>Self-supervised learning</mark>
