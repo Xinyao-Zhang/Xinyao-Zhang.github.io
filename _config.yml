@@ -110,7 +110,6 @@ content:
   - title: Interests
     layout: text
     content: |
-       - <i class="fa-brands fa-google fa-spin"></i>
        - <p style="color:#ff69b4;">When I'm not hitting work, I love to travel and take photos. Big on food and pets!</p>
        
 
