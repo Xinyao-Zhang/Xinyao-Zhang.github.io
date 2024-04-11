@@ -85,7 +85,6 @@ content:
           detailing the probability of each hidden state across different activity classes.
           - Confirmed the framework's robustness with unseen video data, effectively distinguishing between unexpected and predefined actions.
       - layout: top-middle
-        border: weak 
         title: Screw Detection and Tool Recommendation
         quote: >
           Published in the Journal of Manufacturing Science and Engineering
@@ -103,57 +102,19 @@ content:
   - title: Awards
     layout: text
     content: |
+      - Machine Learning (ECE) graduate certificate, University of Florida, 2023
+      - Certificates of Outstanding Merit, University of Florida, 2023
       - Florida AWMA Scholarship, Florida Section of the Air and Waste Management Association, 2023
+      - Don Maurer Memorial Scholarship Award, University of Florida, 2023
       
   - title: A Little More About Me
     layout: text
     content: | 
-       - Florida AWMA Scholarship, Florida Section of the Air and Waste Management Association, 2023
-  # - title: Projects
-  #   layout: list
-  #   content:
-  #     - layout: left
-  #       title: Early prediction of human intent
-  #       caption: completed in 2023
-  #       icon: fab fa-github
-  #       url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
-  #       description: | 
-  #         - Built Transformer and Bi-LSTM models for human motion intention classification, introducing a hidden Markov model for early prediction 
-  #         that achieved a 2% accuracy increase for the Transformer and a 6% increase for the Bi-LSTM .
-  # - title: Education
-  #   layout: list
-  #   content:
-  #     - layout: top-left
-  #       title: University of Florida
-  #       sub_title: PhD in Environmental Engineering
-  #       caption: 2021 - 2025
-  #       quote: >
-  #         Short institution or course description (optional)
-  #       description: | # this will include new lines to allow paragraphs
-  #         Description of qualification
-  #     - layout: top-left
-  #       title: University of Michigan, Ann Arbor
-  #       sub_title: MS in Environmental Engineering
-  #       caption: 2019 - 2021
-  #       quote: >
-  #         Short institution or course description (optional)
-  #       description: | # this will include new lines to allow paragraphs
-  #         Description of qualification
-  #     - layout: top-left
-  #       title: University of Michigan, Ann Arbor
-  #       sub_title: MS in Environmental Engineering
-  #       caption: 2019 - 2021
-  #       quote: >
-  #         Short institution or course description (optional)
-  #       description: | # this will include new lines to allow paragraphs
-  #         Description of qualification
-
-
-  #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+       <p style="color:#ff69b4;">machine learning</p>
+       When I'm not hitting work, I love to travel and take photos. Big on food and pets!
 
 # Footer
 footer_show_references: false
-# references_title: References on request (Override references text)
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
