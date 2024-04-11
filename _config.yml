@@ -109,9 +109,9 @@ content:
       
   - title: Interests
     layout: text
-    content: | 
+    about_profile_image: images/i1.png
+    about_content: |
        <p style="color:#ff69b4;">When I'm not hitting work, I love to travel and take photos. Big on food and pets!</p>
-       - Images ![alt text](/images/interest.jpeg)
        
 
 # Footer
