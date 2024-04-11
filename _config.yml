@@ -50,7 +50,8 @@ content:
       - layout: top-middle
         border: weak 
         title: Early Prediction of Human Intent
-        link: Published in the Journal of Computing and Information Science in Engineering
+        quote: >
+          Published in the Journal of Computing and Information Science in Engineering
         additional_links:
           - title: scholar
             icon: fab fa-google fa-spin
@@ -67,14 +68,15 @@ content:
       - layout: top-middle
         border: weak 
         title: Unsupervised Human Activity Recognition
-        link: Published in the IEEE Transactions on Industrial Informatics
+        quote: >
+          Published in the IEEE Transactions on Industrial Informatics
         additional_links:
           - title: scholar
             icon: fab fa-google fa-spin
             url: https://ieeexplore.ieee.org/abstract/document/10092388
         description: | 
           - Developed an unsupervised learning framework that combines a sequential variational auto-encoder (Seq-VAE) for latent representation learning, 
-          a Hidden Markov Model (HMM) for continuous action segmentation, and a nonlinear support vector machine (SVM) kernel for recognition validation.
+          a HMM for continuous action segmentation, and a nonlinear support vector machine kernel for recognition validation.
           - Tested the framework on video-based disassembly tasks, achieving an average recognition accuracy of 91.52%, 
           surpassing both autoencoder and principal component analysis benchmarks. 
           - Assessed the Seq-VAE's spatio-temporal feature extraction capabilities through image reconstruction, 
