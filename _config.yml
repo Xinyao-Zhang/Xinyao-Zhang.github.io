@@ -55,7 +55,7 @@ content:
             icon: fab fa-google fa-spin
             url: https://asmedigitalcollection.asme.org/computingengineering/article/24/5/051004/1192601
         description: | 
-          - Collected arm motion data in a human-robot collaboration experiment, 
+          - Collected arm motion data in a human-robot collaboration experiment, <p style="color:#ff69b4;">Research interests</p>
           and built Transformer and Bi-LSTM models in TensorFlow to classify human intents.
           - Evaluated model performance by incrementally inputting data lengths from 20% 
           to 100% in 20% intervals, visualizing the results with boxplots and heatmaps.
