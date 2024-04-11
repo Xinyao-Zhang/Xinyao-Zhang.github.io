@@ -109,8 +109,8 @@ content:
       
   - title: Interests
     layout: text
-    about_profile_image: images/i1.png
-    about_content: |
+    content: |
+       icon: fas fa-camera
        <p style="color:#ff69b4;">When I'm not hitting work, I love to travel and take photos. Big on food and pets!</p>
        
 
