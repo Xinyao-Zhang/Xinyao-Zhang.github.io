@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Xinyao (Cynthia) Zhang
-title: Open to work
+title: <p style="color:#ff69b4;">Open to work</p>
 email: xinyaozhang@ufl.edu
 # website: https://xinyao-zhang.github.io/
 
@@ -44,7 +44,7 @@ about_content: |
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects <p style="color:#ff69b4;">Research interests</p>
+  - title: Projects 
     layout: list 
     content:
       - layout: top-middle
