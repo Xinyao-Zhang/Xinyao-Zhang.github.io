@@ -97,7 +97,7 @@ content:
             icon: fab fa-google fa-spin
             url: https://asmedigitalcollection.asme.org/manufacturingscience/article/145/3/031008/1148469/Automatic-Screw-Detection-and-Tool-Recommendation
         description: | 
-          - <p style="color:#ff69b4;">machine learning</p>  
+          # - <p style="color:#ff69b4;">machine learning</p>  
           - Optimized the YOLOv4 algorithm by adjusting layer sizes and connections within the path aggregation network, 
           improving screw detection accuracy in used electronics from 92% to 94%.
           - Developed an EfficientNetv2 algorithm to classify three types of screws, facilitating tool recommendation for disassembly. 
