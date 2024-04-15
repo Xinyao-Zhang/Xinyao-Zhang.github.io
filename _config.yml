@@ -28,17 +28,15 @@ github_username:  Xinyao-Zhang
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: |   
-  Hey! I am a Ph.D. candidate at the University of Florida, mentored by Dr. Sara Behdad. 
-  My research leverages <b>machine learning</b> to enhance safety and efficiency in manufacturing environments, with a focus on <b>human-robot collaboration</b>.
-
-  Alongside my doctoral research, I've pursued a specialization in signals and systems as part of the ECE master's program at UF. I've developed expertise in constructing machine learning models using TensorFlow and PyTorch in Python.
+  Hey! I'm Xinyao (pronounced like Cynthia), a Ph.D. candidate mentored by Dr. Sara Behdad @UF. Alongside, I’m enriching my journey with a Master's in ECE, specializing in signals and systems.
   
-  I am passionate about translating theoretical knowledge into practical solutions that drive innovation and enhance productivity in the manufacturing sector!
+  My research leverages <b>machine learning</b> to enhance safety and efficiency in <b>human-robot collaboration</b> scenarios. Research areas of interest to me include 
+  <mark>human intent and activity recognition</mark>, <mark>early prediction</mark>, <mark>generative learning</mark>. 
 
-  Research interests: 
-    - <mark>Human intent and activity recognition</mark>
-    - <mark>Early prediction</mark>
-    - <mark>Self-supervised learning</mark>
+  Passionate about applying theory to tackle real problems, I’m on my way from researcher to engineer. The visual below maps my knowledge base, which I’ll keep fresh and updated. :)
+  - images/skill set.PNG
+  
+  Feel free to discuss any innovative ideas and collaborations. Let's connect via email!
 
 # <em>Please find my complete Curriculum Vitae (CV) here: <a href="https://github.com/AminSahebi/resume/tree/main/data/resume_Amin_Sahebi.pdf" download="SAHEBI_CV.pdf"><mark>Download</mark></a></em>
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
