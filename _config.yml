@@ -34,12 +34,13 @@ about_content: |
   <mark>human intent and activity recognition</mark>, <mark>early prediction</mark>, <mark>generative learning</mark>. 
 
   Passionate about applying theory to tackle real problems, I’m on my way from researcher to engineer. The visual below maps my knowledge base, which I’ll keep fresh and updated. :)
-  - /images/skill set.PNG
+
+# - images/skill set.PNG
   
   Feel free to discuss any innovative ideas and collaborations. Let's connect via email!
 
 # <em>Please find my complete Curriculum Vitae (CV) here: <a href="https://github.com/AminSahebi/resume/tree/main/data/resume_Amin_Sahebi.pdf" download="SAHEBI_CV.pdf"><mark>Download</mark></a></em>
-  # - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects 
