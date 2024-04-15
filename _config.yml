@@ -105,8 +105,15 @@ content:
       - Certificates of Outstanding Merit, University of Florida, 2023
       - Florida AWMA Scholarship, Florida Section of the Air and Waste Management Association, 2023
       - Don Maurer Memorial Scholarship Award, University of Florida, 2023
+
+  - title: Services
+    layout: text
+    content: |
+      - Reviewer for the Journal of Mechanical Design (JMD), International Conference on Machine Learning (ICML) Workshop, 
+      and the International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC)
+      - Member of the American Society of Mechanical Engineers (ASME) and the UF Society of Women Engineers (SWE)
       
-  - title: Interests
+  - title: More about me
     layout: text
     content: |
        - <p style="color:#ff69b4;">When I'm not hitting work, I love to travel and take photos. Big on food and pets!</p>
