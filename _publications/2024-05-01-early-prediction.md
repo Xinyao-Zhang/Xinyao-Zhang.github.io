@@ -1,5 +1,5 @@
 ---
-title: "Early prediction of human intention for human–robot collaboration using transformer network"
+title: "Early Prediction of Human Intention for Human–Robot Collaboration Using Transformer Network"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-01-early-prediction
