@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="row" style="margin-bottom: 50px;">
   <div class="col-md-12 text-center">
-    <h1 style="font-size: 2rem; font-weight: bold; margin-bottom: 30px;">Lab Statement</h1> 
+    <h1 style="font-size: 1.5rem; font-weight: bold; margin-bottom: 30px;">Lab Statement</h1> 
   </div>
   <div class="col-md-12">
     <p style="text-align: justify; max-width: 900px; margin: 0 auto;">
@@ -17,7 +17,7 @@ author_profile: true
   </div>
 </div>
 
-<h1 class="text-center" style="font-size: 2rem; margin-bottom: 50px;">Lab Members</h1>
+<h1 class="text-center" style="font-size: 1.5rem; margin-bottom: 50px;">Lab Members</h1>
 
 {% include base_path %}
 
