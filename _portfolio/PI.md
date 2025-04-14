@@ -1,6 +1,6 @@
 ---
 # title: "Xinyao (Cynthia) Zhang"
-excerpt: "<img src='/images/1-PI.jpg' style='height: 280px; width: auto;'><br/>Upcoming Assistant<br/>Professor in Industrial &<br/>Manufacturing Engineering"
+excerpt: "<img src='/images/1-PI.jpg' style='width: 280px; height: auto;'><br/><strong>Xinyao (Cynthia) Zhang</strong><br/>Upcoming Assistant<br/>Professor in Industrial &<br/>Manufacturing Engineering"
 collection: portfolio
 category: member
 permalink: /people/xinyao-zhang/
