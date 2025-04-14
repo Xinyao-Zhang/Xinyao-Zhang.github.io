@@ -27,6 +27,8 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
+      {% if post.scholarurl %}
+        <a href="{{ post.scholarurl }}" target="_blank">{{ title }}</a>
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -78,6 +80,10 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% endif %}
+
+    {% if post.scholarurl %}
+      <p><a href="{{ post.scholarurl }}" target="_blank">View on Google Scholar</a></p>
     {% endif %}
 
   </article>
