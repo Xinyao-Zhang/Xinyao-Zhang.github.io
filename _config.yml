@@ -24,9 +24,8 @@ author:
   # Biographic information
   avatar           : "1-lab logo.png"
   name             : "Advance Human, Robot, and Process Intelligence"
-  
   pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   # location         : "Earth"
   employer         : "Florida State University"
   uri              : # URL
