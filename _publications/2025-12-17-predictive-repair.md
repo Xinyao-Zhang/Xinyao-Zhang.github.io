@@ -1,7 +1,7 @@
 ---
 title: "Predictive Repair Management Using Multi-Head Attention Transformer and Online Learning"
 collection: publications
-category: submitted
+category: Submitted
 type: "Conference Paper" # "Journal Article" 
 permalink: /publication/2025-12-17-predictive-repair
 excerpt: '**Xinyao Zhang**, Willie Cade, Karl R. Haapala, Arun Natarajan, Sara Behdad'
