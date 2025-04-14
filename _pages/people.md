@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Lab Members"
+title: "People"
 permalink: /people/
 author_profile: true
 ---
@@ -11,20 +11,13 @@ author_profile: true
   </div>
   <div class="col-md-8">
     <p>
-      We strive to create an inclusive and supportive environment 
-      for all members of the lab to learn from each other and work 
-      as a team. We believe that we benefit most from the 
-      exploration of a diverse set of ideas. We acknowledge, 
-      welcome, and celebrate our differences, including those 
-      related to race, ethnicity, gender identity, nationality, sexual 
-      orientation, religion, disability status, and socioeconomic 
-      status. We work to prevent implicit biases from negatively 
-      impacting our lab and the community around us.
+      We devote to create an inclusive and supportive environment for all members of the lab to learn from each other and work as a team. 
+      We encourage the exploration of a diverse set of ideas. We recognize, embrace, and honor the unique cultural and personal experiences each team member brings, and ensure mutual respect and continuous growth.
     </p>
   </div>
 </div>
 
-<h1 class="text-center" style="margin-bottom: 50px;">Current Lab Members</h1>
+<h1 class="text-center" style="margin-bottom: 50px;">Lab Members</h1>
 
 {% include base_path %}
 
