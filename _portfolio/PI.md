@@ -24,9 +24,8 @@ share: false
     <img src="/images/1-PI.jpg" alt="Xinyao (Cynthia) Zhang" 
          style="max-width: 280px; height: auto;">
     <div style="margin-top: 15px;">
-      <p style="font-size: 1.2rem; margin-bottom: 0.5em;">
       <a href="/files/Xinyao_Cynthia_Zhang_CV.pdf" target="_blank"
-         style="color: #0066cc; font-size: 18px;">
+         style="color: #0066cc; font-size: 18px; font-weight: bold;">
         Full CV
       </a>
     </div>
