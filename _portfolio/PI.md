@@ -25,7 +25,7 @@ share: false
          style="max-width: 280px; height: auto;">
     <div style="margin-top: 15px;">
       <a href="/files/Xinyao_Cynthia_Zhang_CV.pdf" target="_blank"
-         style="color: #0066cc; font-size: 18px; font-weight: bold;">
+         style="color: #0066cc; font-size: 18px;">
         Full CV
       </a>
     </div>
