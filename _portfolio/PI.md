@@ -5,7 +5,7 @@ collection: portfolio
 category: Lab member
 permalink: /people/xinyao-zhang/
 share: false
-title: false
+hide_title: true
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 2rem;">
   <!-- Left Column: Name, Title, Department -->
