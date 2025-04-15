@@ -6,6 +6,12 @@ category: Lab member
 permalink: /people/xinyao-zhang/
 share: false
 ---
+<style>
+  a {
+    color: #E56915;
+  }
+</style>
+
 <div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 2rem;">
   <!-- Left Column: Name, Title, Department -->
   <div style="flex: 2; min-width: 250px;">
