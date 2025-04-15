@@ -1,16 +1,14 @@
 ---
-title: "Xinyao (Cynthia) Zhang"
+#title: "Xinyao (Cynthia) Zhang"
 excerpt: "<img src='/images/1-PI.jpg' style='width: 280px; height: auto;'><br/><br/>Upcoming Assistant<br/>Professor in Industrial &<br/>Manufacturing Engineering"
 collection: portfolio
 category: Lab member
 permalink: /people/xinyao-zhang/
 share: false
 ---
-<!-- CHANGED: Start of custom content with a flex container -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 2rem;">
   <!-- Left Column: Name, Title, Department -->
   <div style="flex: 2; min-width: 250px;">
-    <!-- CHANGED: Larger heading for the name -->
     <h1 style="font-size: 2rem; font-weight: bold; margin-bottom: 10px;">Xinyao (Cynthia) Zhang</h1>
     <p style="margin: 0;">Upcoming Assistant Professor</p>
     <p style="margin: 0;">
@@ -32,16 +30,15 @@ share: false
       </a>
     </div>
   </div>
-</div>
-<!-- CHANGED: End of top flex container -->
+</div> 
 
 <!-- Education Section -->
 <h2>Education</h2>
 <ul>
   <li>2021 - 2025 PhD in the Engineering School of Sustainable Infrastructure &amp; Environment, 
-      University of Florida</li>
+      <br/>University of Florida</li>
   <li>2019 - 2020 MSE in the Department of Civil and Environmental Engineering, 
-      University of Michigan</li>
+      <br/>University of Michigan</li>
   <li>2015 - 2019 BE in the Department of Civil Engineering</li>
 </ul>
 
