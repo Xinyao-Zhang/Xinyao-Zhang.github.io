@@ -5,12 +5,13 @@ collection: portfolio
 category: Lab member
 permalink: /people/xinyao-zhang/
 share: false
+hide_title: true 
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 2rem;">
   <!-- Left Column: Name, Title, Department -->
   <div style="flex: 2; min-width: 250px;">
-    <!-- <h1 style="font-size: 2rem; font-weight: bold; margin-bottom: 10px;">Xinyao (Cynthia) Zhang</h1> -->
-    <p style="margin: 0;">Upcoming Assistant Professor</p>
+    <h1 style="font-size: 2rem; font-weight: bold; margin-bottom: 10px;">Xinyao (Cynthia) Zhang</h1> 
+    <p style="font-size: 1.2rem; margin-bottom: 0.5em;">Upcoming Assistant Professor</p>
     <p style="margin: 0;">
       <a href="https://eng.famu.fsu.edu/ime" target="_blank" 
          style="color: #0066cc; text-decoration: none;">
