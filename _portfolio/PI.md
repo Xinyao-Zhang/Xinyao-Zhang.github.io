@@ -4,46 +4,58 @@ excerpt: "<img src='/images/1-PI.jpg' style='width: 280px; height: auto;'><br/><
 collection: portfolio
 category: Lab member
 permalink: /people/xinyao-zhang/
+share: false
 ---
-<div class="container">
-  <div class="row">
-    <div class="col-md-8">
-      <p>Upcoming Assistant Professor</p>
-      <a href="https://eng.famu.fsu.edu/ime" class="text-primary">Department of Industrial & Manufacturing Engineering</a>
-    </div>
-    <div class="col-md-4" style="text-align: center;"> <!-- CHANGED: Added text-align center for right column -->
-      <img src="/images/1-PI.jpg" class="img-fluid" alt="Xinyao (Cynthia) Zhang" style="width: 280px; height: auto;">
-      <div style="margin-top: 15px;">
-        <a href="/files/Xinyao_Cynthia_Zhang_CV.pdf" target="_blank" style="color: #0066cc; font-size: 18px; font-weight: bold;">Full CV</a> <!-- CHANGED: Added target="_blank" -->
-      </div>
-    </div>
+<!-- CHANGED: Start of custom content with a flex container -->
+<div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 2rem;">
+  <!-- Left Column: Name, Title, Department -->
+  <div style="flex: 2; min-width: 250px;">
+    <!-- CHANGED: Larger heading for the name -->
+    <h1 style="font-size: 2rem; font-weight: bold; margin-bottom: 10px;">Xinyao (Cynthia) Zhang</h1>
+    <p style="margin: 0;">Upcoming Assistant Professor</p>
+    <p style="margin: 0;">
+      <a href="https://eng.famu.fsu.edu/ime" target="_blank" 
+         style="color: #0066cc; text-decoration: none;">
+        Department of Industrial &amp; Manufacturing Engineering
+      </a>
+    </p>
   </div>
 
-  <div class="row" style="margin-top: 40px;">
-    <div class="col-md-12">
-      <div>
-        <h2>Education</h2>
-        <ul>
-          <li>2021 - 2025 PhD in the Engineering School of Sustainable Infrastructure & Environment, <br/>University of Florida</li>
-          <li>2019 - 2020 MSE in the Department of Civil and Environmental Engineering, <br/>University of Michigan</li>
-          <li>2015 - 2019 BE in the Department of Civil Engineering</li>
-        </ul>
-      </div>
-
-      <div style="margin-top: 30px;">
-        <h2>Professional Experience</h2>
-        <ul>
-          <li>Start in August 2025 Assistant Professor, Department of Industrial & Manufacturing Engineering, Florida State University</li>
-        </ul>
-      </div>
-
-      <div style="margin-top: 30px;">
-        <h2>Honors and Awards</h2>
-        <ul>
-          <li>2023 First Year Faculty Teaching Academy Badge, University of Florida</li>
-          <li>2023 Don Maurer Memorial Scholarship Award, University of Florida</li>
-        </ul>
-      </div>
+  <!-- Right Column: Photo and CV Link -->
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="/images/1-PI.jpg" alt="Xinyao (Cynthia) Zhang" 
+         style="max-width: 280px; height: auto;">
+    <div style="margin-top: 15px;">
+      <a href="/files/Xinyao_Cynthia_Zhang_CV.pdf" target="_blank"
+         style="color: #0066cc; font-size: 18px; font-weight: bold;">
+        Full CV
+      </a>
     </div>
   </div>
 </div>
+<!-- CHANGED: End of top flex container -->
+
+<!-- Education Section -->
+<h2>Education</h2>
+<ul>
+  <li>2021 - 2025 PhD in the Engineering School of Sustainable Infrastructure &amp; Environment, 
+      University of Florida</li>
+  <li>2019 - 2020 MSE in the Department of Civil and Environmental Engineering, 
+      University of Michigan</li>
+  <li>2015 - 2019 BE in the Department of Civil Engineering</li>
+</ul>
+
+<!-- Professional Experience Section -->
+<h2>Professional Experience</h2>
+<ul>
+  <li>Starting August 2025: Assistant Professor, Department of Industrial &amp; Manufacturing 
+      Engineering, Florida State University</li>
+</ul>
+
+<!-- Honors and Awards Section -->
+<h2>Honors and Awards</h2>
+<ul>
+  <li>2023 First Year Faculty Teaching Academy Badge, University of Florida</li>
+  <li>2023 Don Maurer Memorial Scholarship Award, University of Florida</li>
+</ul>
+
