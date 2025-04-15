@@ -1,0 +1,89 @@
+---
+layout: archive
+permalink: /news/
+title: "News"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+
+<div class="news-timeline">
+  {% for post in site.posts %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if year != written_year %}
+      <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+      {% capture written_year %}{{ year }}{% endcapture %}
+    {% endif %}
+    
+    <div class="news-item">
+      <div class="news-date">
+        <p>{{ post.date | date: '%b %d, %Y' }}</p>
+      </div>
+      <div class="news-content">
+        {% if post.emoji %}
+          <span class="news-emoji">{{ post.emoji }}</span>
+        {% endif %}
+        <a href="{{ base_path }}{{ post.url }}" class="news-title">{{ post.title }}</a>
+        {% if post.excerpt %}
+          <p class="news-excerpt">{{ post.excerpt }}</p>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+  .news-timeline {
+    margin-top: 2em;
+  }
+  
+  .news-item {
+    display: flex;
+    margin-bottom: 1.5em;
+  }
+  
+  .news-date {
+    min-width: 120px;
+    font-weight: bold;
+  }
+  
+  .news-content {
+    flex: 1;
+  }
+  
+  .news-emoji {
+    margin-right: 0.5em;
+    font-size: 1.2em;
+  }
+  
+  .news-title {
+    font-weight: bold;
+  }
+  
+  .news-excerpt {
+    margin-top: 0.5em;
+    margin-bottom: 0;
+  }
+  
+  .archive__subtitle {
+    border-bottom: 1px solid #f2f3f3;
+    padding-bottom: 0.5em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+  }
+</style>
+
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
