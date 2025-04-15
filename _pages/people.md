@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style>
   a {
-    color: #0066cc;
+    color: #E56915;
   }
 </style>
 
