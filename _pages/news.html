@@ -12,8 +12,11 @@ author_profile: true
   
   {% for post in year.items %}
     <div class="news-item">
-      <div class="news-date">{{ post.date | date: '%b %d, %Y' }}</div>
+      <!-- CHANGED: Removed the news-date div to hide date -->
+      <!-- <div class="news-date">{{ post.date | date: '%b %d, %Y' }}</div> -->
+      
       <div class="news-content">
+        <!-- CHANGED: Removed hyperlink (no <a href="{{ post.url }}">) -->
         <div class="news-title">{{ post.title }}</div>
         <div class="news-description">{{ post.content }}</div>
       </div>
@@ -34,10 +37,12 @@ author_profile: true
     margin-bottom: 2em;
   }
   
-  .news-date {
-    width: 120px;
-    color: #555;
-  }
+  /* CHANGED: .news-date not used anymore, so it's optional to remove it completely
+     .news-date {
+       width: 120px;
+       color: #555;
+     }
+  */
   
   .news-content {
     flex: 1;
