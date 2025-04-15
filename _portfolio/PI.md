@@ -7,7 +7,7 @@ permalink: /people/xinyao-zhang/
 share: false
 ---
 <style>
-  a {
+  .custom-link {
     color: #E56915 !important;
   }
 </style>
