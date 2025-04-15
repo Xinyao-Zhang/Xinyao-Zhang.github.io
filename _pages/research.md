@@ -17,6 +17,7 @@ author_profile: true
   flex: 0 0 30%;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 .research-image img {
   max-width: 90%;
@@ -28,7 +29,7 @@ author_profile: true
 }
 .research-title {
   color: #E56915;
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin-bottom: 1rem;
 }
 .research-description {
@@ -37,8 +38,8 @@ author_profile: true
   margin-bottom: 1rem;
 }
 .research-points {
-  list-style-type: none;
-  padding-left: 0;
+  list-style-type: disc;
+  padding-left: 1.5rem;
 }
 .research-points li {
   margin-bottom: 0.5rem;
@@ -65,13 +66,13 @@ author_profile: true
       <img src="/images/1-hi.png" alt="SMS Lab Logo">
     </div>
     <div class="research-content">
-      <h2 class="research-title">Human Intelligence</h2>
+      <h2 class="research-title">Human Intelligence</h2>  
       <p class="research-description">
         Predict multimodal collaboration and strengthen human-centric system design.
       </p>
       <ul class="research-points">
         <li>Advance measurable and predictable spatial-temporal collaboration</li>
-        <li>- **Reduce cognitive load while maintaining operational flexibility**</li>
+        <li>Reduce cognitive load while maintaining operational flexibility</li>
       </ul>
     </div>
   </div>
@@ -86,8 +87,8 @@ author_profile: true
         Augment robot learning for seamless interaction across physical and digital realms.
       </p>
       <ul class="research-points">
-        <li>- **Reason and interact seamlessly in physical and digital environments**</li>
-        <li>- **Enable adaptive path planning and dexterous manipulation**</li>
+        <li>Reason and interact seamlessly in physical and digital environments</li>
+        <li>Enable adaptive path planning and dexterous manipulation</li>
       </ul>
     </div>
   </div>
@@ -103,8 +104,8 @@ author_profile: true
         Optimize manufacturing operations and leverage advanced prototypes to enhance data-driven insights.
       </p>
       <ul class="research-points">
-        <li>- **Leverage big data analytics to inform decision-making**</li>
-        <li>- **Develop prototypes to increase productivity and sustainability**</li>
+        <li>Leverage big data analytics to inform decision-making</li>
+        <li>Develop prototypes to increase productivity and sustainability</li>
       </ul>
     </div>
   </div>
