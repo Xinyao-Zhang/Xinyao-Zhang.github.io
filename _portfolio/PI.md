@@ -1,5 +1,5 @@
 ---
-#title: "Xinyao (Cynthia) Zhang"
+title: "Xinyao (Cynthia) Zhang"
 excerpt: "<img src='/images/1-PI.jpg' style='width: 280px; height: auto;'><br/><br/>Upcoming Assistant<br/>Professor in Industrial &<br/>Manufacturing Engineering"
 collection: portfolio
 category: Lab member
@@ -9,7 +9,7 @@ share: false
 <div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 2rem;">
   <!-- Left Column: Name, Title, Department -->
   <div style="flex: 2; min-width: 250px;">
-    <h1 style="font-size: 2rem; font-weight: bold; margin-bottom: 10px;">Xinyao (Cynthia) Zhang</h1>
+    <!-- <h1 style="font-size: 2rem; font-weight: bold; margin-bottom: 10px;">Xinyao (Cynthia) Zhang</h1> -->
     <p style="margin: 0;">Upcoming Assistant Professor</p>
     <p style="margin: 0;">
       <a href="https://eng.famu.fsu.edu/ime" target="_blank" 
