@@ -8,7 +8,7 @@ share: false
 ---
 <style>
   a {
-    color: #E56915;
+    color: #E56915 !important;
   }
 </style>
 
