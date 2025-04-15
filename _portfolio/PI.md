@@ -19,7 +19,7 @@ share: false
     <p style="font-size: 1.2rem; margin-bottom: 0.5em;">Upcoming Assistant Professor</p>
     <p style="font-size: 1.2rem; margin-bottom: 1.5em;">
       <a href="https://eng.famu.fsu.edu/ime" target="_blank" 
-         style="color: #0066cc; text-decoration: none;">
+         style="color: #E56915; text-decoration: none;">
         Department of Industrial &amp; Manufacturing Engineering
       </a>
     </p>
@@ -31,7 +31,7 @@ share: false
          style="max-width: 280px; height: auto;">
     <div style="margin-top: 15px;">
       <a href="/files/Xinyao_Cynthia_Zhang_CV.pdf" target="_blank"
-         style="color: #0066cc; font-size: 18px; font-weight: bold;">
+         style="color: #E56915; font-size: 18px; font-weight: bold;">
         Full CV
       </a>
     </div>
