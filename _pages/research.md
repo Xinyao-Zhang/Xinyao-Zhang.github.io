@@ -70,7 +70,7 @@ author_profile: true
         Predict multimodal collaboration and strengthen human-centric system design.
       </p>
       <ul class="research-points">
-        <li>- **Advance measurable and predictable spatial-temporal collaboration**</li>
+        <li>Advance measurable and predictable spatial-temporal collaboration</li>
         <li>- **Reduce cognitive load while maintaining operational flexibility**</li>
       </ul>
     </div>
