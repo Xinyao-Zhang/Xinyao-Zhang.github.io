@@ -23,7 +23,7 @@ author_profile: true
 
 <div class="grid__wrapper">
   {% for post in site.portfolio %}
-    {% if post.category == "member" %}
+    {% if post.category == "Lab member" %}
       {% include archive-single.html type="grid" %}
     {% endif %}
   {% endfor %}
@@ -34,7 +34,7 @@ author_profile: true
 
 <div class="grid__wrapper">
   {% for post in site.portfolio %}
-    {% if post.category == "alumni" %}
+    {% if post.category == "Lab alumni" %}
       {% include archive-single.html type="grid" %}
     {% endif %}
   {% endfor %}
