@@ -25,7 +25,7 @@ author_profile: true
   flex: 0 0 60%;
 }
 .research-title {
-  color: #ff3366;
+  color: #E56915;
   font-size: 1.8rem;
   margin-bottom: 1rem;
 }
@@ -53,12 +53,14 @@ author_profile: true
 <div class="research-container">
   <div class="research-row">
     <div class="research-image">
-      <img src="/images/ml_pipeline.png" alt="ML Pipeline with Data Preprocessing, Feature Engineering, Model Training and Evaluation">
+      <img src="/images/1-lab logo.png">
     </div>
     <div class="research-content">
-      <h2 class="research-title">Communication</h2>
+      <h2 class="research-title">Human Intelligence</h2>
       <p class="research-description">
-        I aim to measure and manage trust in the human-AI conversation using the explainable machine learning models.
+        Predict multimodal collaboration and strengthen human-centric system design.
+        - **Advance measurable and predictable spatial-temporal collaboration**
+        - **Reduce cognitive load while maintaining operational flexibility**
       </p>
     </div>
   </div>
@@ -68,9 +70,11 @@ author_profile: true
       <img src="/images/cooperation_framework.png" alt="Cooperation Framework and Game Theory Modeling">
     </div>
     <div class="research-content">
-      <h2 class="research-title">Cooperation</h2>
+      <h2 class="research-title">Robot Intelligence</h2>
       <p class="research-description">
-        I adopt experimental design, game theory, and cognitive modeling, and simulation approaches to study goal alignment process in the human-AI cooperation.
+        Augment robot learning for seamless interaction across physical and digital realms.
+        - **Reason and interact seamlessly in physical and digital environments**
+        - **Enable adaptive path planning and dexterous manipulation**
       </p>
     </div>
   </div>
@@ -80,9 +84,11 @@ author_profile: true
       <img src="/images/trust_dynamics.png" alt="Spatial-Temporal Trust Dynamics Framework">
     </div>
     <div class="research-content">
-      <h2 class="research-title">Coevolution</h2>
+      <h2 class="research-title">Process Intelligence</h2>
       <p class="research-description">
-        I applied novel approaches, such as trajectory epistemic network analysis, to model the temporal aspects of trust dynamics in long-term human-AI symbiosis.
+        Optimize manufacturing operations and leverage advanced prototypes to enhance data-driven insights.
+        - **Leverage big data analytics to inform decision-making**
+        - **Develop prototypes to increase productivity and sustainability**
       </p>
     </div>
   </div>
