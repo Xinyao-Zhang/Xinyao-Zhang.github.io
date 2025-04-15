@@ -4,6 +4,11 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
+<style>
+  a {
+    color: #0066cc;
+  }
+</style>
 
 <div class="row" style="margin-bottom: 50px;">
   <div class="col-md-12 text-center">
