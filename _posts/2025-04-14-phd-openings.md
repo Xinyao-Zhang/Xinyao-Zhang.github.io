@@ -1,7 +1,7 @@
 ---
-title: 'Fully Funded PhD Opennings'
-date: 2025-04-15
-permalink: /posts/2025
+title: 'Fully Funded PhD Openings'        
+date: 2025-04-14
+permalink: /posts/2025/04/phd-openings/  
 emoji: ":raised_hands:"
 ---
 
