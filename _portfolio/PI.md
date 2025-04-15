@@ -40,7 +40,7 @@ permalink: /people/xinyao-zhang/
     <div class="col-md-4">
       <img src="/images/1-PI.jpg" class="img-fluid" alt="Xinyao (Cynthia) Zhang" style="width: 280px; height: auto;">
       <div style="margin-top: 15px;">
-        <a href="/files/cv.pdf" style="color: #0066cc; font-size: 16px; font-weight: bold;">Full CV</a>
+        <a href="/files/Xinyao_Cynthia_Zhang_CV.pdf" class="btn btn-primary w-100"">Full CV</a>
       </div>
     </div>
   </div>
