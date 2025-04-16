@@ -18,27 +18,16 @@ redirect_from:
     <!-- Blueprint/Diagram -->
     <img src="/images/1-about me.png" alt="Smart Manufacturing Systems Framework" class="img-responsive">
         
-    <p>Our research explores the intersection of:</p>
-    <ul>
-      <li>AI-driven manufacturing systems</li>
-      <li>Robotic automation and reinforcement learning</li>
-      <li>Human-centered design principles</li>
-      <li>Digital transformation technologies</li>
-    </ul>
   </div>
 </div>
 
-## Current Projects
+## Contact Us - From Inspiration to Action
 
-Our lab is currently engaged in several cutting-edge research initiatives:
+<ul>
+  <li>The SMS Lab is live! Several PhD positions are opening; see details on the <a href="/news/">News page</a>.</li>
+  <li>We’re always welcoming multidisciplinary researchers interested in smart manufacturing technologies or related fields. Please contact <a href="mailto:xinyaozhang@ufl.edu">Dr. Xinyao (Cynthia) Zhang</a> for potential collaboration.</li>
+</ul>
 
-1. **AI-Enhanced Manufacturing Process Optimization**
-2. **Human-Robot Collaborative Assembly Systems**
-3. **Digital Twin Implementation for Predictive Maintenance**
-4. **Mixed Reality Interfaces for Operator Training**
-5. **Sustainable Manufacturing and Circular Economy Solutions**
 
-## Join Our Lab
 
-We are always looking for motivated researchers and students interested in smart manufacturing technologies. If you're passionate about the future of manufacturing, [contact us](/contact/) to learn about opportunities.
 
