@@ -12,12 +12,15 @@ author_profile: true
   
   {% for post in year.items %}
     <div class="news-item">
-      <!-- CHANGED: Removed the news-date div to hide date -->
-      <!-- <div class="news-date">{{ post.date | date: '%b %d, %Y' }}</div> -->
-      
+      <!-- Date removed per previous change -->
       <div class="news-content">
-        <!-- CHANGED: Removed hyperlink (no <a href="{{ post.url }}">) -->
-        <div class="news-title">{{ post.title }}</div>
+        <div class="news-title">
+          {% comment %} CHANGED: Added emoji output here {% endcomment %}
+          {% if post.emoji %}
+            <span class="news-emoji">{{ post.emoji }}</span>
+          {% endif %}
+          {{ post.title }}
+        </div>
         <div class="news-description">{{ post.content }}</div>
       </div>
     </div>
