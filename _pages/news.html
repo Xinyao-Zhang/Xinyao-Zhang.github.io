@@ -15,11 +15,10 @@ author_profile: true
       <!-- Date removed per previous change -->
       <div class="news-content">
         <div class="news-title">
-          {% comment %} CHANGED: Added emoji output here {% endcomment %}
-          {% if post.emoji %}
-            <span class="news-emoji">{{ post.emoji }}</span>
-          {% endif %}
-          {{ post.title }}
+            {{ post.title }}
+            {% if post.emoji %}
+              <span class="news-emoji">{{ post.emoji }}</span>
+            {% endif %}
         </div>
         <div class="news-description">{{ post.content }}</div>
       </div>
