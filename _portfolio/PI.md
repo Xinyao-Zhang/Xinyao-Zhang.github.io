@@ -33,7 +33,7 @@ share: false
 <!--       <a href="/files/Xinyao_Cynthia_Zhang_CV.pdf" target="_blank" -->
 <!--          style="color: #E56915; font-size: 18px; font-weight: bold;"> -->
 <!--         Full CV -->
-      </a>
+<!--       </a> -->
     </div>
   </div>
 </div> 
